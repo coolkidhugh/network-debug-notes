@@ -49,3 +49,10 @@ In case 01, the single most time-saving action was **starting a client on the se
 ## About the example values
 
 All IP addresses, keys, UUIDs and account paths have been replaced with placeholders (`<VPS_IP>`, `<PRIVATE_KEY>`, and so on). The commands are otherwise verbatim. Substitute your own values and they will run.
+
+---
+
+## Author
+
+**H** ([@odpanda](https://x.com/odpanda)) · [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=network-debug-notes) — practical notes on debugging production networks and related systems.
+
