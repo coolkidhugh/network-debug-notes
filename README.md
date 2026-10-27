@@ -54,5 +54,5 @@ All IP addresses, keys, UUIDs and account paths have been replaced with placehol
 
 ## Author
 
-**H** ([@odpanda](https://x.com/odpanda)) · [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=network-debug-notes) — practical notes on debugging production networks and related systems.
+**H** ([@odpanda](https://x.com/odpanda)) · [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=network-debug-notes)（人效提升、组织诊断、薪酬绩效）— practical notes on debugging production networks.
 
